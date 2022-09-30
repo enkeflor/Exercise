@@ -1,2 +1,3 @@
 head(mtcars)
 
+summary(iris)
