@@ -1,1 +1,3 @@
 head(mtcars)
+
+summary(mtcars)
